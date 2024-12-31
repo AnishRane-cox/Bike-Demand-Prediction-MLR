@@ -4,7 +4,7 @@ This project aims to predict the demand for shared bikes for BoomBikes, a bike-s
 
 ---
 
-## Table of Contents
+Table of Contents
 
 - [Dataset Characteristics](#dataset-characteristics)
 - [Project Workflow](#project-workflow)
