@@ -47,7 +47,7 @@ These insights help **BoomBikes** optimize fleet distribution, pricing, and mark
 
 ```bash
 # Clone the repository
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/AnishRane-cox/Shared-Bike/tree/main)
 
 # Install required dependencies
 pip install -r requirements.txt
